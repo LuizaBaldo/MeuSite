@@ -1,0 +1,41 @@
+body{
+    background-image: url('https://i.pinimg.com/736x/ab/84/06/ab840650dfa92d5547217bf4eadf93a3.jpg');
+    font-family: monotype corsiva;
+    background-size: auto 400vh;
+    height: 400vh; 
+  }
+  
+  .site-title{
+    text-align: center;
+    color: #FFFAFA;
+    font-size: 40px;
+  }
+  
+  .site-subtitle{
+    text-align: center;
+    color: #FF69B4;
+    font-style: italic;
+  }
+  
+  a{
+    color: purple;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+    color: #FF69B4;
+  }
+  
+  .menu{
+    background-color: white;
+  }
+  .menu li{
+    list-style: none;
+    font-family: new times romman;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
